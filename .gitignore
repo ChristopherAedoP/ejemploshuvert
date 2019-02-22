@@ -1,0 +1,10 @@
+
+#default creacion repositorio
+
+*~
+.DS_Store
+.project
+.settings
+.classpath
+.metadata
+new_repo.sh
